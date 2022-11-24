@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-#include "Nodo.hpp"
+#include "node.hpp"
 
 using namespace std;
 
