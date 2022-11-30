@@ -1,8 +1,7 @@
-#pragma once
 #include <iostream>
-
+#include <queue>
 using namespace std;
 
-class Fila{
 
-};
+queue<double> data;
+
