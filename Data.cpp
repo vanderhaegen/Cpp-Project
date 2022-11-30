@@ -15,7 +15,7 @@ class Temp: virtual public Data {
         Temp(type a) {x=a;}
         ~Temp(){};
         void show_data(){
-            cout << x << " C°" << endl;
+            cout << x << " Cï¿½" << endl;
         }
 };
 
@@ -27,3 +27,4 @@ int main() {
 
    return 0;
 }
+
